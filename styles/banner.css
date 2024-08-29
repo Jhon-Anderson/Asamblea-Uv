@@ -1,0 +1,19 @@
+.encabezado {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+    padding: 15px 20px;
+    border-radius: 50%;
+    background-color: #f2f2f2;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.encabezado span {
+    color: #007bff;
+    font-weight: bold;
+    font-style: italic;
+}
